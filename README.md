@@ -19,7 +19,7 @@ The target for the genetic algorithm is a specific string, and through generatio
 - **Mutation**: Random changes are introduced to an individual with a specified mutation rate.
 
 ## Screenshot
-`screenshot.png`
+![Screenshot of the program running](screenshot.png)
 
 ## Setup
 
